@@ -136,3 +136,19 @@ clear
 __vsc_prompt_cmd_original
 ./salon.sh
 ./salon.sh
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql
+ls --color=auto
+ls --color=auto
+ssh-keygen -t ed25519
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+pbcopy
+cat ~/.ssh/id_ed25519.pub
+git remote -v
+git remote self git@github.com:nayabatir1/FCC-Salon-Appointment-Scheduler.git
+git remote add self git@github.com:nayabatir1/FCC-Salon-Appointment-Scheduler.git
+git remote -v
+git add .
